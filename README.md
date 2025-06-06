@@ -47,8 +47,12 @@ https://interface31.ru/tech_it/2020/10/osvaivaem-effektivnuyu-rabotu-v-midnight-
 ![image](https://github.com/user-attachments/assets/0047507e-4a4f-4e44-af02-8cc114ae56ba)
 
 
+https://admin-gu.ru/os/linux/mc-hotkey
+
+```ALT + T``` --> Смена режима отображения панели.
 
 
+![image](https://github.com/user-attachments/assets/03a1d0bd-9a4a-4904-9b25-3e28c1f4bf38)
 
 
 
