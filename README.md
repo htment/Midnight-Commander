@@ -35,9 +35,16 @@ https://interface31.ru/tech_it/2020/10/osvaivaem-effektivnuyu-rabotu-v-midnight-
 ![image](https://github.com/user-attachments/assets/d42074b5-d839-413a-8bb4-603bab16661b)
 
 
+Отображение мини-статуса
 
 
+![image](https://github.com/user-attachments/assets/165cc6d4-9a02-4866-9026-cd9d63b70be8)
 
+
+![image](https://github.com/user-attachments/assets/100f9ca5-84a7-40c2-9c27-77122ff9e245)
+
+
+![image](https://github.com/user-attachments/assets/0047507e-4a4f-4e44-af02-8cc114ae56ba)
 
 
 
